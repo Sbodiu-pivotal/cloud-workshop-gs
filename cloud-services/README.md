@@ -10,7 +10,7 @@ Spring Boot-style starter projects to ease dependency management for consumers o
 
 1 Change to the lab directory
  
-    $ cf cloud-services    
+    $ cd cloud-services    
     
 2 Inspect pom.xml    
 
